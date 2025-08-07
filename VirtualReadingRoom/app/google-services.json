@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1092744175078",
+    "project_id": "virtualreadingroom-168f7",
+    "storage_bucket": "virtualreadingroom-168f7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092744175078:android:76c93e3f08e811ac83ca27",
+        "android_client_info": {
+          "package_name": "com.example.virtualreadingroom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACimeIql3qpYnha38it6xB1QJFQ87RbFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
